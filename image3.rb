@@ -7,7 +7,7 @@ class Image
 
     def blur(distance = 1)
         distance.times do
-        change
+            change
         end
     end
 
